@@ -8,6 +8,7 @@ TagManager:
   - shape
   - Ground
   - enemigo
+  - Player2
   layers:
   - Default
   - TransparentFX
